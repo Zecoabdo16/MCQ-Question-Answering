@@ -1,6 +1,3 @@
-Sure! Here's the updated version with the requested additions:
-
----
 
 ### 🌟 Pipeline Overview for Kaggle LLM Science Exam 🚀
 
